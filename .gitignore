@@ -1,0 +1,20 @@
+# Xcode & macOS
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# SwiftPM
+.swiftpm/
+Package.resolved
+
+# CocoaPods (if using)
+Pods/
+Podfile.lock
+
+# Carthage (if using)
+Carthage/
+
+
